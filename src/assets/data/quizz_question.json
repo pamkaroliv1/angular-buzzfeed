@@ -1,0 +1,57 @@
+{
+  "title":"Com quem você combinaria, Edward ou Jacob ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "O que você gostaria?",
+      "options":[
+        {"id": 1, "name":"Praia", "alias":"B"},
+        {"id": 2, "name":"Parque", "alias":"B"},
+        {"id": 3, "name":"Museu", "alias":"A"},
+        {"id": 4, "name":"viagem", "alias":"b"},
+        {"id": 5, "name":"Ficar em casa", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual sua comida favorita?",
+      "options":[
+        {"id": 1, "name":"Pizza", "alias":"B"},
+        {"id": 2, "name":"Lasanha", "alias":"B"},
+        {"id": 3, "name":"Sorvete", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual o seu Livro favorito da saga ?",
+      "options":[
+        {"id": 1, "name":"Crepúsculo", "alias":"A"},
+        {"id": 2, "name":"Lua nova", "alias":"B"},
+        {"id": 3, "name":"Eclipse", "alias":"B"},
+        {"id": 4, "name":"Amanhecer", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual é sua estação preferida ?",
+      "options":[
+        {"id": 1, "name":"Inverno", "alias":"A"},
+        {"id": 2, "name":"Verão", "alias":"B"},
+        {"id": 3, "name":"Outono", "alias":"A"},
+        {"id": 4, "name":"Primavera", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual você prefere",
+      "options":[
+        {"id": 1, "name":"Frio", "alias":"A"},
+        {"id": 2, "name":"Calor", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é uma pessoa que merecer ter um Edward Cullen para chamar de seu!",
+    "B": "Você é uma pessoa que merecer ter um Jacob Black para chamar de seu!!"
+  }
+}
